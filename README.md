@@ -1,2 +1,2 @@
 # Cars4u
-Business Analytics and Solution - Building a linear regression model
+Business Analytics and Solution - SL Regression
